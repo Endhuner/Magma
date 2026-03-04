@@ -1,15 +1,21 @@
 import React from 'react';
-import { DataTable } from 'some-data-table-library';
+import { Button } from 'primereact/button';
+import { Column } from 'primereact/column';
+import downloadXlsx from '../downloadXlsx';
 
-const OrdersTable = () => {
-    // Your existing implementation here...
+const OrdersTable = ({ orders }) => {
+    const exportToExcel = () => {
+        downloadXlsx(orders);
+    };
 
     return (
         <div>
-            {/* Your existing JSX, but without the duplicated JSX block */}
-
-            {/* DataTable component kept intact */}
-            <DataTable />
+            <Button label="Export to Excel" icon="pi pi-upload" onClick={exportToExcel} />
+            <DataTable value={orders}>
+                <Column field="orderNumber" header="Order Number" />
+                <Column field="customerName" header="Customer Name" />
+                <Column field="date" header="Date" />
+            </DataTable>
         </div>
     );
 };
