@@ -7,6 +7,7 @@ import { Button } from 'primereact/button'
 import { CustomersTable } from './components/CustomersTable.jsx'
 import OrdersTable from './components/OrdersTable.jsx'
 import { ItemsTable } from './components/ItemsTable.jsx'
+import { ProcessTable } from './components/ProcessTable.jsx'
 
 import { loadSqliteDbAuto } from './db/sqliteLoader.js'
 
@@ -91,6 +92,7 @@ export default function App() {
       <div className="flex gap-2 mb-3">
         <Button label="Vevők" onClick={() => setTab('customers')} outlined={tab !== 'customers'} />
         <Button label="Rendelések" onClick={() => setTab('orders')} outlined={tab !== 'orders'} />
+        <Button label="Folyamat" onClick={() => setTab('process')} outlined={tab !== 'process'} />
         <Button label="Tételek" onClick={() => setTab('items')} outlined={tab !== 'items'} />
       </div>
 
@@ -110,6 +112,8 @@ export default function App() {
           customers={customers}
           items={items}
         />
+      ) : tab === 'process' ? (
+        <ProcessTable orders={orders} loading={loading} db={db} onSaved={reloadOrders} />
       ) : (
         <ItemsTable items={items} loading={loading} db={db} onSaved={reloadItems} />
       )}
