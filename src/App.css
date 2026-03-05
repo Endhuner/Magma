@@ -1,0 +1,3 @@
+/* Kiszállított sor világos zöld */
+.row-delivered > td {
+  background-color: #d8f5d8 !important;
