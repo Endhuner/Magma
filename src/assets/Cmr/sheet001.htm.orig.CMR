@@ -1,0 +1,458 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=UTF-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link id=Main-File rel=Main-File href="../Cmr.htm">
+<link rel=File-List href=filelist.xml>
+<link rel=Stylesheet href=stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:.55in .04in .55in .04in;
+	mso-header-margin:.31in;
+	mso-footer-margin:.31in;}
+-->
+</style>
+<![if !supportTabStrip]><script language="JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=4) {
+   if (parent.document.readyState=="complete"
+    && parent.frames['frTabs'].document.readyState=="complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!="frSheet")
+ window.location.replace("../Cmr.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link="#0563C1" vlink="#954F72" class=xl127>
+
+<table border=0 cellpadding=0 cellspacing=0 width=734 style='border-collapse:
+ collapse;table-layout:fixed;width:552pt'>
+ <col class=xl127 width=117 span=2 style='mso-width-source:userset;mso-width-alt:
+ 4278;width:88pt'>
+ <col class=xl127 width=36 span=2 style='mso-width-source:userset;mso-width-alt:
+ 1316;width:27pt'>
+ <col class=xl127 width=47 style='mso-width-source:userset;mso-width-alt:1718;
+ width:35pt'>
+ <col class=xl127 width=85 style='mso-width-source:userset;mso-width-alt:3108;
+ width:64pt'>
+ <col class=xl127 width=44 style='mso-width-source:userset;mso-width-alt:1609;
+ width:33pt'>
+ <col class=xl127 width=41 span=2 style='mso-width-source:userset;mso-width-alt:
+ 1499;width:31pt'>
+ <col class=xl127 width=43 style='mso-width-source:userset;mso-width-alt:1572;
+ width:32pt'>
+ <col class=xl127 width=86 style='mso-width-source:userset;mso-width-alt:3145;
+ width:65pt'>
+ <col class=xl127 width=41 style='mso-width-source:userset;mso-width-alt:1499;
+ width:31pt'>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td height=29 class=xl145 width=117 style='height:21.75pt;width:88pt'></td>
+  <td class=xl145 width=117 style='width:88pt'></td>
+  <td class=xl145 width=36 style='width:27pt'></td>
+  <td class=xl145 width=36 style='width:27pt'></td>
+  <td class=xl145 width=47 style='width:35pt'></td>
+  <td class=xl145 width=85 style='width:64pt'></td>
+  <td class=xl145 width=44 style='width:33pt'></td>
+  <td class=xl145 width=41 style='width:31pt'></td>
+  <td class=xl145 width=41 style='width:31pt'></td>
+  <td class=xl145 width=43 style='width:32pt'></td>
+  <td class=xl193 width=86 style='width:65pt'>Saját rendelési szám</td>
+  <td class=xl144 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td colspan=4 rowspan=3 height=111 class=xl248 width=306 style='border-bottom:
+  .5pt solid black;height:83.45pt;width:230pt'>1. Feladó (Név, cím, ország),
+  Sender (Name, Address, Country)<br />
+    <font class="font18">Magma Kft<br />
+    H-1211 Budapest, Déli utca 13.<br />
+    HU10368152-2-43</font></td>
+  <td class=xl168 width=47 style='width:35pt'>&nbsp;</td>
+  <td colspan=6 class=xl240 width=340 style='border-right:.5pt solid black;
+  border-left:none;width:256pt'>NEMZETKÖZI FUVARLEVÉL</td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl169 width=47 style='height:15.75pt;width:35pt'>&nbsp;</td>
+  <td colspan=6 class=xl243 width=340 style='border-right:.5pt solid black;
+  border-left:none;width:256pt'><font class="font17">INTERNATIONAL CONSIGNMENT
+  NOTE</font></td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=69 style='mso-height-source:userset;height:51.95pt'>
+  <td height=69 class=xl170 width=47 style='height:51.95pt;width:35pt'>&nbsp;</td>
+  <td colspan=3 class=xl244 width=170 style='border-left:none;width:128pt'>This
+  carriage is subject, nothwith- standing any clause to the contrary to the
+  Convention on the Contract for the international Carriage of goods by road
+  (CMR).</td>
+  <td colspan=3 class=xl246 width=170 style='border-right:.5pt solid black;
+  width:128pt'>A fuvarozásra elétr&#337; megállapodás esetén is a nemzetközi
+  árufuvarozási egyezmény CMR rendelkezései az irányagók<span
+  style='mso-spacerun:yes'> </span></td>
+  <td class=xl132 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td colspan=5 height=20 class=xl224 width=353 style='border-right:.5pt solid black;
+  height:15.0pt;width:265pt'>2. Átvev&#337; (Név, cím, ország) Consignee (Name,
+  Address, Country)<span style='mso-spacerun:yes'>      </span></td>
+  <td colspan=6 rowspan=3 class=xl201 width=340 style='border-right:.5pt solid black;
+  border-bottom:.5pt solid black;width:256pt'>16. Carrier (Name, Address,
+  Country) Fuvarozó (Név, cím, ország)</td>
+  <td class=xl132 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td colspan=5 height=24 class=xl198 width=353 style='border-right:.5pt solid black;
+  height:18.0pt;width:265pt'>&nbsp;</td>
+  <td class=xl132 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=23 style='mso-height-source:userset;height:17.25pt'>
+  <td colspan=5 height=23 class=xl230 width=353 style='border-right:.5pt solid black;
+  height:17.25pt;width:265pt'>&nbsp;</td>
+  <td class=xl132 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=31 style='mso-height-source:userset;height:23.25pt'>
+  <td colspan=5 height=31 class=xl224 width=353 style='border-right:.5pt solid black;
+  height:23.25pt;width:265pt'>3. Az áru átvételének helye és
+  i&#337;pontja.<span
+  style='mso-spacerun:yes'>                                                    
+  </span>Place of delivery of the goods</td>
+  <td colspan=6 rowspan=4 class=xl201 width=340 style='border-right:.5pt solid black;
+  border-bottom:.5pt solid black;width:256pt'>17<span
+  style='mso-spacerun:yes'>  </span>Successive carriers (Name, Address,
+  Country) További fuvarozó (Név, cím, ország)</td>
+  <td class=xl132 width=41 style='width:31pt'></td>
+ </tr>
+ <tr class=xl143 height=23 style='mso-height-source:userset;height:17.25pt'>
+  <td height=23 class=xl142 width=117 style='height:17.25pt;width:88pt'>Place/Ort/helység</td>
+  <td class=xl141 width=117 style='width:88pt'>Budapest</td>
+  <td class=xl141 width=36 style='width:27pt'></td>
+  <td class=xl133 width=36 style='width:27pt'></td>
+  <td class=xl138 width=47 style='width:35pt'>&nbsp;</td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr class=xl143 height=23 style='mso-height-source:userset;height:17.25pt'>
+  <td height=23 class=xl140 width=117 style='height:17.25pt;width:88pt'>Country/Land/ország</td>
+  <td class=xl139 width=117 style='width:88pt'>Hungary</td>
+  <td class=xl139 width=36 style='width:27pt'>&nbsp;</td>
+  <td class=xl137 width=36 style='width:27pt'>&nbsp;</td>
+  <td class=xl136 width=47 style='width:35pt'>&nbsp;</td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td colspan=5 height=32 class=xl227 width=353 style='border-right:.5pt solid black;
+  height:24.0pt;width:265pt'>4. Az áru átvételének helye és id&#337;ponja<span
+  style='mso-spacerun:yes'>                                                  
+  </span>Place and date of taking over of the goods</td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl142 width=117 style='height:18.0pt;width:88pt'>Place/Ort/helység</td>
+  <td class=xl141 width=117 style='width:88pt'></td>
+  <td class=xl141 width=36 style='width:27pt'></td>
+  <td class=xl133 width=36 style='width:27pt'></td>
+  <td class=xl138 width=47 style='width:35pt'>&nbsp;</td>
+  <td colspan=6 rowspan=3 class=xl218 width=340 style='border-right:.5pt solid black;
+  width:256pt'>18. Carrier's reservations and observations<br />
+    A fuvarozó fenntartásai és bejegyzése</td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td height=24 class=xl140 width=117 style='height:18.0pt;width:88pt'>Country/Land/ország</td>
+  <td class=xl139 width=117 style='width:88pt'>&nbsp;</td>
+  <td class=xl139 width=36 style='width:27pt'>&nbsp;</td>
+  <td class=xl137 width=36 style='width:27pt'>&nbsp;</td>
+  <td class=xl136 width=47 style='width:35pt'>&nbsp;</td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=37 style='mso-height-source:userset;height:27.75pt'>
+  <td height=37 class=xl179 width=117 style='height:27.75pt;border-top:none;
+  width:88pt'>5. Mellékelt okmány, Documents attached</td>
+  <td class=xl194 width=117 style='border-top:none;width:88pt'>&nbsp;</td>
+  <td class=xl180 width=36 style='border-top:none;width:27pt'>&nbsp;</td>
+  <td class=xl180 width=36 style='border-top:none;width:27pt'>&nbsp;</td>
+  <td class=xl181 width=47 style='border-top:none;width:35pt'>&nbsp;</td>
+  <td class=xl132 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=42 style='mso-height-source:userset;height:31.5pt'>
+  <td height=42 class=xl175 width=117 style='height:31.5pt;width:88pt'>6. Marks
+  and Nos<br />
+    <span style='mso-spacerun:yes'>     </span>Jel és szám</td>
+  <td class=xl176 width=117 style='width:88pt'>7. Number of packages<span
+  style='mso-spacerun:yes'>  </span>Darabszám<span
+  style='mso-spacerun:yes'>                                        </span></td>
+  <td colspan=3 class=xl175 width=119 style='border-right:.5pt solid black;
+  width:89pt'>8. Method of packing<span style='mso-spacerun:yes'>  
+  </span>Csomagolás</td>
+  <td class=xl175 width=85 style='border-left:none;width:64pt'>9. Nature of the
+  goods<span style='mso-spacerun:yes'>  </span>Áru megnevezése</td>
+  <td colspan=2 class=xl216 width=85 style='border-right:.5pt solid black;
+  width:64pt'>10. Statistical num.<br />
+    Statisztikai szám</td>
+  <td colspan=2 class=xl216 width=84 style='border-right:.5pt solid black;
+  border-left:none;width:63pt'>11. Gross weight <font class="font20">kg</font><font
+  class="font9"><br />
+    Bruttósúly i </font><font class="font20">kg</font></td>
+  <td class=xl177 width=86 style='border-left:none;width:65pt'>12. Volume in
+  m3<br />
+    Térfogat m3</td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td height=32 class=xl186 width=117 style='height:24.0pt;border-top:none;
+  width:88pt'>&nbsp;</td>
+  <td class=xl187 width=117 style='border-top:none;width:88pt'>&nbsp;</td>
+  <td colspan=2 class=xl279 width=72 style='width:54pt'>&nbsp;</td>
+  <td class=xl188 width=47 style='border-top:none;width:35pt'>&nbsp;</td>
+  <td class=xl189 width=85 style='border-top:none;width:64pt'>&nbsp;</td>
+  <td colspan=2 class=xl296 width=85 style='border-right:.5pt solid black;
+  width:64pt'></td>
+  <td colspan=2 class=xl275 width=84 style='border-right:.5pt solid black;
+  border-left:none;width:63pt'>&nbsp;</td>
+  <td class=xl184 width=86 style='border-left:none;width:65pt'>&nbsp;</td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td height=32 class=xl182 width=117 style='height:24.0pt;width:88pt'>&nbsp;</td>
+  <td class=xl190 width=117 style='width:88pt'></td>
+  <td colspan=2 class=xl280 width=72 style='width:54pt'></td>
+  <td class=xl191 width=47 style='width:35pt'></td>
+  <td class=xl183 width=85 style='width:64pt'>&nbsp;</td>
+  <td colspan=2 class=xl296 width=85 style='border-right:.5pt solid black;
+  width:64pt'></td>
+  <td colspan=2 class=xl277 width=84 style='border-right:.5pt solid black;
+  border-left:none;width:63pt'>&nbsp;</td>
+  <td class=xl184 width=86 style='border-left:none;width:65pt'>&nbsp;</td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=32 style='mso-height-source:userset;height:24.0pt'>
+  <td height=32 class=xl192 width=117 style='height:24.0pt;width:88pt'>&nbsp;</td>
+  <td class=xl173 width=117 style='width:88pt'>&nbsp;</td>
+  <td colspan=2 class=xl293 width=72 style='width:54pt'>&nbsp;</td>
+  <td class=xl172 width=47 style='width:35pt'>&nbsp;</td>
+  <td class=xl174 width=85 style='width:64pt'>&nbsp;</td>
+  <td colspan=2 class=xl137 width=85 style='border-right:.5pt solid black;
+  width:64pt'>&nbsp;</td>
+  <td colspan=2 class=xl284 width=84 style='border-right:.5pt solid black;
+  border-left:none;width:63pt'>&nbsp;</td>
+  <td class=xl185 width=86 style='border-left:none;width:65pt'>&nbsp;</td>
+  <td class=xl132 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=35 style='mso-height-source:userset;height:26.25pt'>
+  <td colspan=5 rowspan=2 height=59 class=xl286 width=353 style='border-right:
+  .5pt solid black;height:44.25pt;width:265pt'>13. Sender's instructions
+  (Customs and other formalities)<br />
+    Feladó rendelkezései (Vám és egyéb hivatalos kezelés)</td>
+  <td class=xl171 width=85 style='border-left:none;width:64pt'><font
+  class="font8">19. </font><font class="font19"><sup>To be paied by</sup></font><font
+  class="font12"><sup>:<br />
+    </sup></font><font class="font9"><span style='mso-spacerun:yes'>        
+  </span>Fiezetend&#337;:</font></td>
+  <td colspan=2 class=xl289 width=85 style='width:64pt'>Sender<br />
+    Felad&#337;</td>
+  <td colspan=2 class=xl291 width=84 style='width:63pt'>Currency<br />
+    Pénznem</td>
+  <td class=xl162 width=86 style='border-top:none;width:65pt'>Consignee<br />
+    Átvev&#337;</td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=24 style='height:18.0pt'>
+  <td height=24 class=xl163 width=85 style='height:18.0pt;border-top:none;
+  border-left:none;width:64pt'>Carriage charges /Fuvardíj</td>
+  <td colspan=2 class=xl282 width=85 style='border-right:.5pt solid black;
+  border-left:none;width:64pt'>&nbsp;</td>
+  <td colspan=2 class=xl233 width=84 style='border-right:.5pt solid black;
+  border-left:none;width:63pt'>&nbsp;</td>
+  <td class=xl135 width=86 style='border-top:none;border-left:none;width:65pt'>&nbsp;</td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=29 style='mso-height-source:userset;height:21.75pt'>
+  <td colspan=5 height=29 class=xl302 width=353 style='border-right:.5pt solid black;
+  height:21.75pt;width:265pt'>&nbsp;</td>
+  <td class=xl164 width=85 style='border-top:none;border-left:none;width:64pt'>Supplem
+  charges Pluszköltség</td>
+  <td colspan=2 rowspan=2 class=xl303 width=85 style='border-right:.5pt solid black;
+  border-bottom:.5pt solid black;width:64pt'>&nbsp;</td>
+  <td colspan=2 rowspan=2 class=xl235 width=84 style='border-right:.5pt solid black;
+  border-bottom:.5pt solid black;width:63pt'>&nbsp;</td>
+  <td rowspan=2 class=xl298 width=86 style='border-bottom:.5pt solid black;
+  border-top:none;width:65pt'>&nbsp;</td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=42 style='mso-height-source:userset;height:32.1pt'>
+  <td colspan=5 height=42 class=xl300 width=353 style='border-right:.5pt solid black;
+  height:32.1pt;width:265pt'>&nbsp;</td>
+  <td class=xl165 width=85 style='border-left:none;width:64pt'>Other charges
+  Extra / más egyéb költség</td>
+  <td class=xl132 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=24 style='mso-height-source:userset;height:18.0pt'>
+  <td colspan=5 height=24 class=xl281 width=353 style='border-right:.5pt solid black;
+  height:18.0pt;width:265pt'>&nbsp;</td>
+  <td class=xl163 width=85 style='border-top:none;border-left:none;width:64pt'>Total
+  to be paied<br />
+    Teljes költség</td>
+  <td colspan=2 class=xl282 width=85 style='border-right:.5pt solid black;
+  border-left:none;width:64pt'>&nbsp;</td>
+  <td colspan=2 class=xl233 width=84 style='border-right:.5pt solid black;
+  border-left:none;width:63pt'>&nbsp;</td>
+  <td class=xl135 width=86 style='border-top:none;border-left:none;width:65pt'>&nbsp;</td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=33 style='mso-height-source:userset;height:24.75pt'>
+  <td colspan=2 height=33 class=xl239 width=234 style='height:24.75pt;
+  width:176pt'><font class="font10"><sub>14. </sub></font><font class="font9">Cash
+  on delivery<br />
+    <span style='mso-spacerun:yes'>      </span>Visszatérítés<span
+  style='mso-spacerun:yes'> </span></font></td>
+  <td class=xl132 width=36 style='width:27pt'></td>
+  <td class=xl133 width=36 style='width:27pt'></td>
+  <td class=xl133 width=47 style='width:35pt'></td>
+  <td class=xl133 width=85 style='width:64pt'></td>
+  <td class=xl133 width=44 style='width:33pt'></td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+  <td class=xl133 width=43 style='width:32pt'></td>
+  <td class=xl134 width=86 style='width:65pt'>&nbsp;</td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=50 style='mso-height-source:userset;height:38.1pt'>
+  <td colspan=5 height=50 class=xl268 width=353 style='border-right:.5pt solid black;
+  height:38.1pt;width:265pt'>15. Directions as to payment for carriage<br />
+    <span style='mso-spacerun:yes'>      </span>Fuvardíjfizetési meghagyások</td>
+  <td colspan=6 class=xl271 width=340 style='border-right:.5pt solid black;
+  border-left:none;width:256pt'>20. Special agreements<br />
+    <span style='mso-spacerun:yes'>      </span>Egyedi megállapodások</td>
+  <td class=xl132 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=36 style='mso-height-source:userset;height:27.0pt'>
+  <td height=36 class=xl157 width=117 style='height:27.0pt;border-top:none;
+  width:88pt'>21. Ausgefertigt in<span style='mso-spacerun:yes'>         
+  </span>Kiállitás helye,</td>
+  <td class=xl158 width=117 style='border-top:none;width:88pt'>Budapest</td>
+  <td class=xl195 width=36 style='border-top:none;width:27pt'>&nbsp;</td>
+  <td class=xl159 width=36 style='border-top:none;width:27pt'>am<span
+  style='mso-spacerun:yes'>       </span>on</td>
+  <td class=xl158 width=47 style='border-top:none;width:35pt'>&nbsp;</td>
+  <td class=xl158 width=85 style='border-top:none;width:64pt'>&nbsp;</td>
+  <td class=xl160 width=44 style='border-top:none;width:33pt'>&nbsp;</td>
+  <td colspan=4 rowspan=2 class=xl218 width=211 style='border-right:.5pt solid black;
+  border-bottom:.5pt solid black;width:159pt'><font class="font10"><sub>24.</sub></font><font
+  class="font8">Goods received<span style='mso-spacerun:yes'>            
+  </span>Date<span style='mso-spacerun:yes'>    </span><br />
+    <span style='mso-spacerun:yes'>    </span>Áru átvétele<span
+  style='mso-spacerun:yes'>                  </span>dátum<br />
+    <span
+  style='mso-spacerun:yes'>                                                                                                </span></font></td>
+  <td class=xl133 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=72 style='mso-height-source:userset;height:54.0pt'>
+  <td colspan=3 rowspan=2 height=114 class=xl212 width=270 style='height:85.5pt;
+  width:203pt'>22. A feladó aláírása és bélyegz&#337;je<span
+  style='mso-spacerun:yes'>   </span><br />
+    Signature and stamp of the sender</td>
+  <td colspan=4 rowspan=2 class=xl214 width=212 style='width:159pt'>23. Fuvaroó
+  aláírása és bélyegz&#337;je<br />
+    Signature and stamp of the carrier</td>
+  <td class=xl132 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=42 style='mso-height-source:userset;height:31.5pt'>
+  <td colspan=4 height=42 class=xl210 width=211 style='border-right:.5pt solid black;
+  height:31.5pt;width:159pt'>Signature and stamp of the consignee<span
+  style='mso-spacerun:yes'>       </span>Az átvev&#337; aláírása és
+  bélyez&#337;je</td>
+  <td class=xl132 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=36 style='mso-height-source:userset;height:27.0pt'>
+  <td height=36 class=xl161 width=117 style='height:27.0pt;width:88pt'><font
+  class="font8">25. Vehicle<span style='mso-spacerun:yes'>       </span></font><font
+  class="font9"><br />
+    <span style='mso-spacerun:yes'>        </span>Járm&#369;</font></td>
+  <td colspan=4 class=xl266 width=236 style='border-right:.5pt solid black;
+  width:177pt'>Registration number- Kennzeichen- Rendszám</td>
+  <td class=xl166 width=85 style='width:64pt'>&nbsp;</td>
+  <td class=xl166 width=44 style='width:33pt'>&nbsp;</td>
+  <td class=xl166 width=41 style='width:31pt'>&nbsp;</td>
+  <td class=xl166 width=41 style='width:31pt'>&nbsp;</td>
+  <td class=xl166 width=43 style='width:32pt'>&nbsp;</td>
+  <td class=xl167 width=86 style='width:65pt'>&nbsp;</td>
+  <td class=xl131 width=41 style='width:31pt'></td>
+ </tr>
+ <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td colspan=5 rowspan=2 height=42 class=xl254 width=353 style='border-right:
+  .5pt solid black;border-bottom:.5pt dotted black;height:31.5pt;width:265pt'>&nbsp;</td>
+  <td class=xl127></td>
+  <td class=xl127></td>
+  <td class=xl127></td>
+  <td class=xl127></td>
+  <td class=xl127></td>
+  <td class=xl130>&nbsp;</td>
+  <td class=xl127></td>
+ </tr>
+ <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl127 style='height:15.75pt'></td>
+  <td class=xl127></td>
+  <td class=xl127></td>
+  <td class=xl127></td>
+  <td class=xl127></td>
+  <td class=xl130>&nbsp;</td>
+  <td class=xl127></td>
+ </tr>
+ <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td colspan=5 rowspan=2 height=42 class=xl260 width=353 style='border-right:
+  .5pt solid black;border-bottom:.5pt solid black;height:31.5pt;width:265pt'>&nbsp;</td>
+  <td class=xl127></td>
+  <td class=xl127></td>
+  <td class=xl127></td>
+  <td class=xl127></td>
+  <td class=xl127></td>
+  <td class=xl130>&nbsp;</td>
+  <td class=xl127></td>
+ </tr>
+ <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl129 style='height:15.75pt'>&nbsp;</td>
+  <td class=xl129>&nbsp;</td>
+  <td class=xl129>&nbsp;</td>
+  <td class=xl129>&nbsp;</td>
+  <td class=xl129>&nbsp;</td>
+  <td class=xl128>&nbsp;</td>
+  <td class=xl127></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=117 style='width:88pt'></td>
+  <td width=117 style='width:88pt'></td>
+  <td width=36 style='width:27pt'></td>
+  <td width=36 style='width:27pt'></td>
+  <td width=47 style='width:35pt'></td>
+  <td width=85 style='width:64pt'></td>
+  <td width=44 style='width:33pt'></td>
+  <td width=41 style='width:31pt'></td>
+  <td width=41 style='width:31pt'></td>
+  <td width=43 style='width:32pt'></td>
+  <td width=86 style='width:65pt'></td>
+  <td width=41 style='width:31pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
